@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Bellman blog
-subtitle: Bellman blog
+title: Bellman
+subtitle: Bellman
 description: records of my work & life
 keywords:
 author: Bellman
@@ -91,13 +91,14 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-matery
 
+search:
+path: search.xml
+field: post
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com:beileng1998/beileng1998.github.io.git
+  repository: https://github.com/beileng1998/beileng1998.github.io
   branch: master
 
-search:
-path: search.xml
-field: post
