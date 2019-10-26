@@ -1,6 +1,6 @@
 ---
-title: 代码云端部署框架 syncd 学习笔记【router】
-date: 2019-10-18 22:00:00
+title: 代码云端部署框架 syncd 学习笔记【合集 router】
+date: 2019-10-22 18:00:00
 tags: 
     - Go
     - syncd
@@ -16,7 +16,21 @@ Gitee: https://gitee.com/dreamans/syncd
 
 [Makefile 学习笔记](https://beileng1998.github.io/2019/10/19/Go/syncd/makefile/)
 
-[build 学习笔记](./https://beileng1998.github.io/2019/10/20/Go/syncd/build/)
+[build 学习笔记](https://beileng1998.github.io/2019/10/20/Go/syncd/build/)
+
+[config 学习笔记](https://beileng1998.github.io/2019/10/20/Go/syncd/config/)
+
+[gorm->mysql 学习笔记](https://beileng1998.github.io/2019/10/21/Go/syncd/db/)
+
+[deploy 学习笔记](https://beileng1998.github.io/2019/10/21/Go/syncd/deploy/)
+
+[model 学习笔记](https://beileng1998.github.io/2019/10/22/Go/syncd/model/)
+
+[render 学习笔记](https://beileng1998.github.io/2019/10/22/Go/syncd/render/)
+
+[install 学习笔记](https://beileng1998.github.io/2019/10/22/Go/syncd/install/)
+
+[mail 学习笔记](https://beileng1998.github.io/2019/10/22/Go/syncd/mail/)
 ## 项目结构说明
 ```
 .
